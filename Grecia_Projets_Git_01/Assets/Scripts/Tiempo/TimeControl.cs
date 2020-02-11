@@ -1,11 +1,13 @@
 using UnityEngine;
 
+
 public class TimeControl : MonoBehaviour {
 
 
     public bool enabledList = false;
     
     public GameObject pausa;
+    
 
     public float timeMultiplier = 1f;
 
@@ -14,6 +16,7 @@ public class TimeControl : MonoBehaviour {
  
 	void Update() {
 
+     
                
         if (Input.GetKeyDown(KeyCode.P))
         {

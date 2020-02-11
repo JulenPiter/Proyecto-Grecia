@@ -50,7 +50,7 @@ public class InventarioBarco : MonoBehaviour
         {
             barcoRecursosCantidad[i].text = Recursos[i].Cantidad.ToString();
             barcoRecursosPrecioM[i].text = precioMedio[i].ToString();
-            //barcoRecursosNombre[i].text = Recursos[i].Nombre + ":";
+            barcoRecursosNombre[i].text = Recursos[i].Nombre + ":";
         }
     }
 

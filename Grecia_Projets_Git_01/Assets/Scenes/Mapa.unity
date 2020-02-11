@@ -369,7 +369,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 256
   guardarDatos: {fileID: 32339192}
-  miBarco: {fileID: 0}
+  miBarco: {fileID: 62318288}
   posicionMapa: {x: 0, y: 0, z: 0}
 --- !u!114 &62318294
 MonoBehaviour:
@@ -906,7 +906,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!64 &449853582
 MeshCollider:
