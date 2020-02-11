@@ -63,14 +63,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\AutoIntensity.cs" />
-    <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
-    <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
-    <Compile Include="Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
-    <Compile Include="Assets\SampleScenes\Scripts\CameraSwitch.cs" />
-    <Compile Include="Assets\SampleScenes\Scripts\LevelReset.cs" />
-    <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
-    <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
-    <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
     <Compile Include="Assets\ScriptableObjects\Construccion\BuildProgress\BuildProgressSO.cs" />
     <Compile Include="Assets\ScriptableObjects\Construccion\PlaceableBuildings\BuildingSO.cs" />
     <Compile Include="Assets\Scripts\Barco\GuardarDatos.cs" />
@@ -78,6 +70,7 @@
     <Compile Include="Assets\Scripts\Barco\LlegadaCiudad.cs" />
     <Compile Include="Assets\Scripts\Barco\Movimiento.cs" />
     <Compile Include="Assets\Scripts\Barco\VolverMapa.cs" />
+    <Compile Include="Assets\Scripts\CamaraMapaGrecia.cs" />
     <Compile Include="Assets\Scripts\Comercio\ActivarComprarVender.cs" />
     <Compile Include="Assets\Scripts\Comercio\ComprarVender.cs" />
     <Compile Include="Assets\Scripts\Comercio\MercadoManager.cs" />
@@ -87,6 +80,7 @@
     <Compile Include="Assets\Scripts\Construccion\ShowBuildProgress.cs" />
     <Compile Include="Assets\Scripts\Construccion\SpawnBuildings.cs" />
     <Compile Include="Assets\Scripts\Globals.cs" />
+    <Compile Include="Assets\Scripts\MenuPrincipal.cs" />
     <Compile Include="Assets\Scripts\Tiempo\Calendar.cs" />
     <Compile Include="Assets\Scripts\Tiempo\Clock.cs" />
     <Compile Include="Assets\Scripts\Tiempo\DayNightController.cs" />
@@ -116,7 +110,6 @@
     <None Include="Assets\Scripts\Tiempo\Effects\ImageEffects\Shaders\_BloomAndFlares\LensFlareCreate.shader" />
     <None Include="Assets\Scripts\Tiempo\Effects\ImageEffects\Shaders\_BloomAndFlares\Blend.shader" />
     <None Include="Assets\Scripts\Tiempo\Effects\TessellationShaders\Shaders\BumpedSpecularDisplacement.shader" />
-    <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
     <None Include="Assets\Scripts\Tiempo\Effects\ImageEffects\Shaders\_BloomAndFlares\BlurAndFlares.shader" />
     <None Include="Assets\Scripts\Tiempo\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendForBloom.shader" />
     <Reference Include="Unity.Timeline.Editor">
