@@ -70,7 +70,7 @@
     <Compile Include="Assets\Scripts\Barco\LlegadaCiudad.cs" />
     <Compile Include="Assets\Scripts\Barco\Movimiento.cs" />
     <Compile Include="Assets\Scripts\Barco\VolverMapa.cs" />
-    <Compile Include="Assets\Scripts\CamaraMapaGrecia.cs" />
+    <Compile Include="Assets\Scripts\Camara\CamaraMapaGrecia.cs" />
     <Compile Include="Assets\Scripts\Comercio\ActivarComprarVender.cs" />
     <Compile Include="Assets\Scripts\Comercio\ComprarVender.cs" />
     <Compile Include="Assets\Scripts\Comercio\MercadoManager.cs" />
@@ -80,7 +80,7 @@
     <Compile Include="Assets\Scripts\Construccion\ShowBuildProgress.cs" />
     <Compile Include="Assets\Scripts\Construccion\SpawnBuildings.cs" />
     <Compile Include="Assets\Scripts\Globals.cs" />
-    <Compile Include="Assets\Scripts\MenuPrincipal.cs" />
+    <Compile Include="Assets\Scripts\Menus\MenuPrincipal.cs" />
     <Compile Include="Assets\Scripts\Tiempo\Calendar.cs" />
     <Compile Include="Assets\Scripts\Tiempo\Clock.cs" />
     <Compile Include="Assets\Scripts\Tiempo\DayNightController.cs" />
