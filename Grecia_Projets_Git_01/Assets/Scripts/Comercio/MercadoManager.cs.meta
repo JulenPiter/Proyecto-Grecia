@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: 28dfe1557cc410449b45ac58693327f7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Madera: {fileID: 11400000, guid: cc5f03c0e89862c41b0034c72469a652, type: 2}
+  - Marmol: {fileID: 11400000, guid: 7a3d0fdc1cb4a65409bc27940aecc593, type: 2}
+  - Ladrillos: {fileID: 11400000, guid: 5e6cb3b355f5e3242acee1c80c3e70ca, type: 2}
+  - Arcilla: {fileID: 11400000, guid: 4dcc7aabf60dd3942984751be0bfa597, type: 2}
+  - Mineral: {fileID: 11400000, guid: e042d8ac37820cf40af36cae5469d93a, type: 2}
+  - Cereales: {fileID: 11400000, guid: 52ffdd992266695459304af20e52888e, type: 2}
+  - Pan: {fileID: 11400000, guid: dc5ad70955197ab46b169cd69b24ab2b, type: 2}
+  - Vegetales: {fileID: 11400000, guid: c2aadaee1bc0d7949aaa0dd580ea69b6, type: 2}
+  - Pescado: {fileID: 11400000, guid: 0d1be2cbccabd9d4f9ccb28731c4e7cb, type: 2}
+  - Vino: {fileID: 11400000, guid: c00006ed87ac4d44995cfcad1a5e7d1c, type: 2}
+  - Leche: {fileID: 11400000, guid: 3378d25863e8d934c934a1b67f590822, type: 2}
+  - Queso: {fileID: 11400000, guid: e922d4baac29bb144b8b8ad83070a132, type: 2}
+  - Hidromiel: {fileID: 11400000, guid: cfd92843b50d3424aa5b465d86d12efe, type: 2}
+  - Carne: {fileID: 11400000, guid: 4fd4b24a18128e54296677dcc3c54291, type: 2}
+  - Aceite: {fileID: 11400000, guid: ed67fee2c7ec3fc46b5566a6876bf176, type: 2}
+  - Cuero: {fileID: 11400000, guid: 1fb1c69772bf64e4da2f807b161005ac, type: 2}
+  - Alfareria: {fileID: 11400000, guid: b6761b935b513b4419461c3c907921b5, type: 2}
+  - Metal: {fileID: 11400000, guid: ab1c269d9a6df53448c5d9aa3da476cc, type: 2}
+  - Telas: {fileID: 11400000, guid: 9afaf86025e63ed4dbfcb13a2e79a33f, type: 2}
+  - Resina: {fileID: 11400000, guid: f421fe146c425ac4fbe0cae7eefd2b95, type: 2}
+  - Miel: {fileID: 11400000, guid: 535f4944ef49d764d849d99455cc682b, type: 2}
+  - Pieles: {fileID: 11400000, guid: 0df876661d4e7ce45838106dd4ec7d6a, type: 2}
+  - Papiro: {fileID: 11400000, guid: 0156034c385b5f74c97b3ee1400120a7, type: 2}
+  - Especias: {fileID: 11400000, guid: e7c731266a67e9d458f14573804da9db, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

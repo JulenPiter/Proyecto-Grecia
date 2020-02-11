@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototipo", "Prototipo.csproj", "{7E02AEF9-E1EF-2F4B-B72E-D43D745D1847}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototipo.Editor", "Prototipo.Editor.csproj", "{375374AA-5645-B260-3295-8264805B18C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E02AEF9-E1EF-2F4B-B72E-D43D745D1847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E02AEF9-E1EF-2F4B-B72E-D43D745D1847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E02AEF9-E1EF-2F4B-B72E-D43D745D1847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E02AEF9-E1EF-2F4B-B72E-D43D745D1847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{375374AA-5645-B260-3295-8264805B18C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375374AA-5645-B260-3295-8264805B18C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375374AA-5645-B260-3295-8264805B18C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375374AA-5645-B260-3295-8264805B18C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F4B08F7-264D-429D-A496-0F1020058D2C}
+	EndGlobalSection
+EndGlobal
