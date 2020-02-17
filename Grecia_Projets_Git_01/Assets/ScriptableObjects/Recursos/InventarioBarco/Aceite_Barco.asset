@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Nombre: Aceite
   Icono: {fileID: 0}
-  Cantidad: 0
-  Precio: 0
-  PrecioVenta: 0
-  PrecioAnterior: 0
-  PrecioTramoBajo: 0
-  PrecioTramoAlto: 0
+  Cantidad: 67
+  Precio: 44
+  PrecioVenta: 44
+  PrecioAnterior: 4
+  PrecioTramoBajo: 4
+  PrecioTramoAlto: 4
   tipoRecurso: 2
   a: 0
   b: 0

@@ -36,7 +36,7 @@ public class TimeControl : MonoBehaviour {
 
                 mover.miBarco.enabled = true;
 
-                pausa.gameObject.transform.position = new Vector3(1000, pausa.gameObject.transform.position.y, pausa.gameObject.transform.position.z);
+                pausa.gameObject.transform.position = new Vector3(2000, pausa.gameObject.transform.position.y, pausa.gameObject.transform.position.z);
             }
 
             enabledList = !enabledList;
