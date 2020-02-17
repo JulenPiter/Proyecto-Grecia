@@ -48,9 +48,9 @@ public class InventarioBarco : MonoBehaviour
 
         for (int i = 0; i < Recursos.Length; i++)
         {
-            barcoRecursosCantidad[i].text = Recursos[i].Cantidad.ToString();
-            barcoRecursosPrecioM[i].text = precioMedio[i].ToString();
-            barcoRecursosNombre[i].text = Recursos[i].Nombre + ":";
+            //barcoRecursosCantidad[i].text = Recursos[i].Cantidad.ToString();
+            //barcoRecursosPrecioM[i].text = precioMedio[i].ToString();
+            //barcoRecursosNombre[i].text = Recursos[i].Nombre + ":";
         }
     }
 
